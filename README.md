@@ -4,9 +4,9 @@ This command line challenge is designed to help you become familiar with the bas
 
 > :exclamation: We strongly recommend reading [The Command Line lesson](https://content.breatheco.de/en/lesson/the-command-line-the-terminal) on the BreatheCode platform.
 
-💻The challenge is built for computers using the Linux bash. Use [Gitpod](https://gitpod.io) if you need a terminal in the cloud. 
+💻The challenge is built for computers using the Linux bash. Use [Gitpod](https://gitpod.io) if you need a terminal in the cloud.
 
-## 🌱  How to start this project
+## 🌱 How to start this project
 
 ### 👩‍🎓Students and Teachers must follow this step:
 
